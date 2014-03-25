@@ -1,0 +1,36 @@
+<Widget>
+    <Kind>5</Kind>
+    <Name>coronalDepth</Name>
+    <Value>0.360000014</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>coronalPad</Name>
+    <XValue>0.319999933</XValue>
+    <YValue>0.180000067</YValue>
+    <ZValue>0.360000014</ZValue>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>sagittalDepth</Name>
+    <Value>0.319999933</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>sagittalPad</Name>
+    <XValue>0.319999933</XValue>
+    <YValue>0.180000067</YValue>
+    <ZValue>0.360000014</ZValue>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>axialDepth</Name>
+    <Value>0.180000067</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>axialPad</Name>
+    <XValue>0.319999933</XValue>
+    <YValue>0.180000067</YValue>
+    <ZValue>0.360000014</ZValue>
+</Widget>
